@@ -9,7 +9,10 @@ body {
 
 body h1 {
   font-weight: 300;
-  margin:20px 30px;
+}
+
+h1{
+float: left;
 }
 
 #main-header {
