@@ -1,8 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&display=swap');
+
 body {
   background: #ffdacd;
   color: #242424;
+  font-family: 'Roboto Condensed', sans-sans-serif;
+  margin:0px;
 }
 
-h3 {
-  color: #000
+body h1 {
+  font-weight: 300;
+  margin:20px 30px;
+}
+
+#main-header {
+  border: 3px solid #242424;
 }
